@@ -1,0 +1,6 @@
+framework module Pods_AppleBox_AppleBoxUITests {
+  umbrella header "Pods-AppleBox-AppleBoxUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
